@@ -55,7 +55,9 @@ Each metadata file includes:
 
 ## 🌍 Project Website
 
-https://borgodisempronio.it
+https://borgodisempronio.com
+https://www.empowermentlabs.eu/kingdom-of-cryptonia/
+
 
 ---
 
