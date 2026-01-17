@@ -1,0 +1,32 @@
+{
+  "name": "Borgo di Sempronio – Founders Certificate #2096",
+  "description": "NFT funzionale che certifica lo status di Founding Supporter del progetto Borgo di Sempronio e attribuisce diritti di accesso, partecipazione e un’opzione condizionata di futura conversione, secondo Term Sheet ufficiale.",
+  "image": "ipfs://bafybeibb4rc5hofzfmiyxt5rqlzjlynia4xb4sumwapij37v6qz25te3gu/borgo_di_sempronio_logo.png",
+  "external_url": "https://borgodisempronio.it/founders",
+  "attributes": [
+    {
+      "trait_type": "Categoria",
+      "value": "Founders Certificate"
+    },
+    {
+      "trait_type": "Serial",
+      "value": 2096
+    },
+    {
+      "trait_type": "Accesso",
+      "value": "Prioritario"
+    },
+    {
+      "trait_type": "Governance",
+      "value": "Consultiva"
+    },
+    {
+      "trait_type": "Conversione",
+      "value": "Opzione condizionata"
+    },
+    {
+      "trait_type": "Supply",
+      "value": "4500"
+    }
+  ]
+}
